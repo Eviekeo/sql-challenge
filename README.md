@@ -13,5 +13,5 @@ Refer to the below two files in the EmployeeSQL folder
 
 ## Code Source - used in tableschemata.sql
     PRIMARY KEY (emp_no, dept_no)
-    The above code was used to set two primary keys in the department employee table. The code was sourced from the below site:
-    https://stackoverflow.com/questions/23533184/primary-key-for-multiple-columns-in-postgresql
+The above code was used to set two primary keys in the department employee table. The code was sourced from the below site:
+https://stackoverflow.com/questions/23533184/primary-key-for-multiple-columns-in-postgresql
